@@ -10,3 +10,6 @@
 //headers (opcional): content-type: text/html; charset=UTF-8 content-Type: application/json: charset= utf-8
 //body (opcional): <html lang="en"><head>....</head><body> etc, código html que se envían como datos. cuando se crea una app web, nos comunicamos con api la mayor parte del tiempo estamos obteniendo de vuelta los datos json
 //se puede ver un ejemplo al inspeccionar una página web, luego en Network actualizas la página y veras Name los request y response
+
+
+//hasta acá los conceptos de node, el curso continúa con express desde otro repositorio
